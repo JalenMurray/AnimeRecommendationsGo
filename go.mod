@@ -1,4 +1,4 @@
-module github.com/JalenMurray/AnimeRecsGo
+module github.com/JalenMurray/AnimeRecommendationsGo
 
 go 1.24.1
 

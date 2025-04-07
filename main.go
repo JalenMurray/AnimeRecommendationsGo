@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/JalenMurray/AnimeRecsGo/db"
-	"github.com/JalenMurray/AnimeRecsGo/handlers"
+	"github.com/JalenMurray/AnimeRecommendationsGo/db"
+	"github.com/JalenMurray/AnimeRecommendationsGo/handlers"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/JalenMurray/AnimeRecsGo/db"
+	"github.com/JalenMurray/AnimeRecommendationsGo/db"
 )
 
 func GetAnimeByID(w http.ResponseWriter, r *http.Request) {
